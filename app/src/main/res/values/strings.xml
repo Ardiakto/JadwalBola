@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Match Result</string>
+    <string name="last_match">Last Schedule</string>
+    <string name="next_match">Upcoming match</string>
+    <string name="favorites">Bigmatch</string>
+</resources>
